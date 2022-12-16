@@ -23,7 +23,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-lightgrey)&nbsp;
 ![Microsoft-office](https://img.shields.io/badge/-Pacote%20Office-brightgreen)&nbsp;
   
-### Outro Conhecimentos:
+### Outros Conhecimentos:
 ![Hardware](https://img.shields.io/badge/-Hardware-lightgrey)&nbsp;
   
 ### O que estudo no Momento:
