@@ -77,7 +77,7 @@
 
   
   <div align="center">
-<br><p align="centre"><b>Visitas ao meu Git</b></p>  
+<br><p align="centre"><b>Visits to my Git</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gustavocorrea0}/count.svg" /></p> 
 <br></div>
   
