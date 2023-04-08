@@ -28,7 +28,7 @@
   
 ### O que estudo no Momento:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
-![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-blue)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-purple)&nbsp;
 ![C](https://img.shields.io/badge/-C-blue)&nbsp;
 
   
