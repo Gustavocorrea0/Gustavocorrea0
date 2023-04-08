@@ -57,7 +57,6 @@
 ![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;  
 ![HTML](https://img.shields.io/badge/-CSS-blue)&nbsp;   
 ![CSS](https://img.shields.io/badge/-HTML-white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-blue)&nbsp;
   
 ### My Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)&nbsp;
