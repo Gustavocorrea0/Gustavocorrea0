@@ -63,7 +63,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-purple)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-lightgrey)&nbsp;
-![Microsoft-office](https://img.shields.io/badge/-Pacote%20Office-brightgreen)&nbsp;
+![Microsoft-office](https://img.shields.io/badge/-%20office%20pack-blue)&nbsp;
   
 ### Other knowledges:
 ![Hardware](https://img.shields.io/badge/-Hardware-lightgrey)&nbsp;
