@@ -14,17 +14,16 @@
 ![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;  
 ![HTML](https://img.shields.io/badge/-CSS-blue)&nbsp;   
 ![CSS](https://img.shields.io/badge/-HTML-white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-blue)&nbsp;
   
 ### Minhas Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-purple)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-lightgrey)&nbsp;
 ![Microsoft-office](https://img.shields.io/badge/-Pacote%20Office-brightgreen)&nbsp;
   
 ### Outros Conhecimentos:
 ![Hardware](https://img.shields.io/badge/-Hardware-lightgrey)&nbsp;
+![Redes](https://img.shields.io/badge/-Redes-blue)&nbsp;
   
 ### O que estudo no Momento:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
@@ -69,11 +68,12 @@
   
 ### Other knowledges:
 ![Hardware](https://img.shields.io/badge/-Hardware-lightgrey)&nbsp;
+![Redes](https://img.shields.io/badge/-Redes-blue)&nbsp;
   
 ### What I'm Studying Right Now:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
 ![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-blue)&nbsp;
-![C](https://img.shields.io/badge/-C-blue)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-purple)&nbsp;
 
   
   <div align="center">
