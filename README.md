@@ -13,7 +13,7 @@
 ### Minhas Habilidades:
 ![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;   
 ![CSS](https://img.shields.io/badge/-HTML-white)&nbsp;
-![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp;
+
   
 ### Minhas Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)&nbsp;
@@ -29,7 +29,7 @@
 ### O que estudo no Momento:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-purple)&nbsp;
-![C](https://img.shields.io/badge/-C-blue)&nbsp;
+![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp;
 
   
   <div align="center">
@@ -55,8 +55,7 @@
   </div>
   
 ### My skills:
-![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;  
-![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp;  
+![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;   
 ![CSS](https://img.shields.io/badge/-HTML-white)&nbsp;
   
 ### My Tools:
@@ -74,6 +73,7 @@
 ### What I'm Studying Right Now:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-purple)&nbsp;
+![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp; 
 
   
   <div align="center">
