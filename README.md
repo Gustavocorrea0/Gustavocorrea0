@@ -20,6 +20,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-purple)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-lightgrey)&nbsp;
 ![Microsoft-office](https://img.shields.io/badge/-Pacote%20Office-brightgreen)&nbsp;
+![PgAdmin](https://img.shields.io/badge/-PgAdmin-blue)&nbsp;
   
 ### Outros Conhecimentos:
 ![Hardware](https://img.shields.io/badge/-Hardware-lightgrey)&nbsp;
@@ -64,6 +65,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-lightgrey)&nbsp;
 ![Microsoft-office](https://img.shields.io/badge/-%20office%20pack-blue)&nbsp;
+![PgAdmin](https://img.shields.io/badge/-PgAdmin-blue)&nbsp;
   
 ### Other knowledges:
 ![Hardware](https://img.shields.io/badge/-Hardware-lightgrey)&nbsp;
