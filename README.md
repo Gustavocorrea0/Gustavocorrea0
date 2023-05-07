@@ -55,7 +55,7 @@
   
 ### My skills:
 ![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;  
-![HTML](https://img.shields.io/badge/-CSS-blue)&nbsp;   
+![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp;  
 ![CSS](https://img.shields.io/badge/-HTML-white)&nbsp;
   
 ### My Tools:
