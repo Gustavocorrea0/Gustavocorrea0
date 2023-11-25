@@ -30,10 +30,6 @@
 ![C#](https://img.shields.io/badge/-C%23-purple)&nbsp;
 ![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp; 
 
-  
-  <div align="center">
-<br><p align="centre"><b>Visits to my Git</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gustavocorrea0}/count.svg" /></p> 
 <br></div>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+My+GitHub)
