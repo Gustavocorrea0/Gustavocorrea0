@@ -2,14 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Hello🤙,;+My+Name+is+Gustavo+Alfredo+😎,;I+am+20+years+old,;Study+Analysis+and+Development+of+Systems🖥️,;Welcome+to+My+GitHub!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustavocorrea0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
-<div align="center">  
-<a href="www.linkedin.com/in/gustavo-correa00" target= "_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue"</a>
-  </div>
-  
 ### My skills:
 ![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;
   
