@@ -4,9 +4,9 @@
 
 
 ### My skills:
-> JAVA
-> PostgreSQL
-> React Native
+> JAVA,
+> PostgreSQL,
+> React Native,
 > Programming Logic
 
 ### My Tools:
