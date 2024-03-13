@@ -3,11 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Hello🤙,;+My+Name+is+Gustavo+Alfredo+😎,;I+am+20+years+old,;Study+Analysis+and+Development+of+Systems🖥️,;Welcome+to+My+GitHub!+:%29)](https://git.io/typing-svg)
 
 
-### My skills:
-> JAVA,
-> PostgreSQL,
-> React Native,
-> Programming Logic
+### My development skill:
+> JAVA: intermediary,
+> React Native: beginner,
+> JavaScript: beginner,
+> Python: beginner,
+> Programming Logic,
+> PostgreSQL: beginner
 
 ### My Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)&nbsp;
@@ -18,8 +20,9 @@
 ![PgAdmin](https://img.shields.io/badge/-PgAdmin-blue)&nbsp;
   
 ### Other knowledges:
-![Hardware](https://img.shields.io/badge/-Hardware-lightgrey)&nbsp;
-![Redes](https://img.shields.io/badge/-Redes-blue)&nbsp;
+> Hardware: advanced,
+> Networks: beginner,
+> 
   
 ### What I'm Studying Right Now:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
