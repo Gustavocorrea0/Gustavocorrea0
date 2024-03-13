@@ -21,7 +21,8 @@
   
 ### Other knowledges:
 > Hardware: advanced,
-> Networks: beginner, 
+> Networks: beginner,
+> Cybersecurity: beginner
   
 ### What I'm Studying Right Now:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
