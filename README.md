@@ -5,7 +5,10 @@
 
 ### My skills:
 > JAVA
-  
+> PostgreSQL
+> React Native
+> Programming Logic
+
 ### My Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-purple)&nbsp;
