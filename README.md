@@ -4,12 +4,12 @@
 
 
 ### My development skill:
-> JAVA: intermediary,
-> React Native: beginner,
-> JavaScript: beginner,
-> Python: beginner,
+> JAVA,
+> React Native,
+> JavaScript,
+> Python,
 > Programming Logic,
-> PostgreSQL: beginner
+> PostgreSQL
 
 ### My Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)&nbsp;
@@ -21,8 +21,7 @@
   
 ### Other knowledges:
 > Hardware: advanced,
-> Networks: beginner,
-> 
+> Networks: beginner, 
   
 ### What I'm Studying Right Now:
 ![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
