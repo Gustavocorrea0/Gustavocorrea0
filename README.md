@@ -4,7 +4,7 @@
 
 
 ### My skills:
-![JAVA](https://img.shields.io/badge/-Java-red)&nbsp;
+> JAVA
   
 ### My Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)&nbsp;
