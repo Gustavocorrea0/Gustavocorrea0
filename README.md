@@ -29,6 +29,8 @@
 ![C#](https://img.shields.io/badge/-C%23-purple)&nbsp;
 ![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp; 
 
+### Contacts
+<a href="www.linkedin.com/in/gustavo-correa00" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br></div>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+My+GitHub)
