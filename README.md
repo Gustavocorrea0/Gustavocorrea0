@@ -24,11 +24,6 @@
 > Networks: beginner,
 > Cybersecurity: beginner
   
-### What I'm Studying Right Now:
-![Python](https://img.shields.io/badge/-Python-yellow)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-purple)&nbsp;
-![SQL](https://img.shields.io/badge/-Sql-blue)&nbsp; 
-
 ### Contacts
 <a href="[www.linkedin.com/in/gustavo-correa00](https://www.linkedin.com/in/gustavo-correa00/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br></div>
