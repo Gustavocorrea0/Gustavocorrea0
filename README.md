@@ -4,11 +4,11 @@
 
 
 ### My development skill:<br>
-> JAVA<br>
-> React Native<br>
-> JavaScript<br>
-> Python<br>
-> Programming Logic<br>
+> JAVA,
+> React Native,
+> JavaScript,
+> Python,
+> Programming Logic and
 > PostgreSQL
 
 ### My Tools:
