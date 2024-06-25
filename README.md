@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Hello🤙,;+My+Name+is+Gustavo+Alfredo+😎,;I+am+21+years+old,;Study+Analysis+and+Development+of+Systems🖥️,;Welcome+to+My+GitHub!+:%29)](https://git.io/typing-svg)
 
 
-### My development skill:
-> JAVA,
-> React Native,
-> JavaScript,
-> Python,
-> Programming Logic,
+### My development skill:<br>
+> JAVA<br>
+> React Native<br>
+> JavaScript<br>
+> Python<br>
+> Programming Logic<br>
 > PostgreSQL
 
 ### My Tools:
