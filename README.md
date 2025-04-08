@@ -14,7 +14,7 @@
 [![PostgresQL](https://img.shields.io/badge/PostgresQL-38648c?style=for-the-badge&logo=PostgresQL&logoColor=white)](https://www.postgresql.org/)
   
 ### Other Skills
-[![React](https://img.shields.io/badge/cybersecurity-beginner-dc0a00?style=for-the-badge&logo=&logoColor=white)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/cybersecurity-beginner-dc0a00?style=for-the-badge&logo=&logoColor=white)]()
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-correa00/)
