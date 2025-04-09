@@ -6,8 +6,7 @@
 [![Progress 4GL](https://img.shields.io/badge/Progress_4GL-23bd01?style=for-the-badge&logo=Progress&logoColor=white)](https://www.progress.com/openedge/features/abl)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/
-
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 
 ### Database
 [![PostgresQL](https://img.shields.io/badge/PostgresQL-38648c?style=for-the-badge&logo=PostgresQL&logoColor=white)](https://www.postgresql.org/)
