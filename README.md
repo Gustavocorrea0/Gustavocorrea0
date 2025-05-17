@@ -17,17 +17,5 @@
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-correa00/)
 
-### Statistics   
-<img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Gustavocorrea0&show_icons=true&theme=radical&custom_title=Language"
-/>
-<img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavocorrea0&layout=compact&theme=radical"
-/>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=818181&height=120&section=footer"/>
 
